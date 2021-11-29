@@ -44,6 +44,19 @@ body {
     color:white;
 }
 
+.btn-add-cart {
+    background: deepskyblue;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    font-size: 14px;
+    height: 25px;
+}
+
+.btn-add-cart:hover {
+    background:aquamarine;
+}
+
 .show-chase {
     padding-top: 20px;
     padding-bottom: 0px;
@@ -157,3 +170,4 @@ margin-left: 30px;
     }
 
 }
+
