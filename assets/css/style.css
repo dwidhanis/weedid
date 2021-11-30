@@ -31,6 +31,10 @@ body {
     letter-spacing: 2px;
 }
 
+.home-product {
+    margin-top: 50px;
+}
+
 .btn {
     background: #3a95e4;
     color: white;
@@ -49,7 +53,6 @@ body {
     border: none;
     color: white;
     border-radius: 15px;
-    font-size: 14px;
     height: 25px;
 }
 
@@ -171,3 +174,6 @@ margin-left: 30px;
 
 }
 
+.pagination {
+    padding-top: 30px;
+}
